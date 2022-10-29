@@ -1,6 +1,7 @@
 ---
 title: com.pastebin
 parent: Package providers
+grand_parent: Specification
 ---
 
 `com.pastebin` is the identifier for the package provider of [Pastebin](https://pastebin.com).

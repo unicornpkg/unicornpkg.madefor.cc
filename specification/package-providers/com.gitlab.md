@@ -1,6 +1,7 @@
 ---
 title: com.gitlab
 parent: Package providers
+grand_parent: Specification
 ---
 
 `com.gitlab` is the identifier for the package provider of the main [GitLab](https://gitlab.com) instance.

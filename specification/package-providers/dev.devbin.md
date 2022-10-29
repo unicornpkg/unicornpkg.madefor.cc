@@ -1,6 +1,7 @@
 ---
 title: dev.devbin
 parent: Package providers
+grand_parent: Specification
 ---
 
 `dev.devbin` is the identifier for the package provider of [Devbin](https://devbin.dev).
