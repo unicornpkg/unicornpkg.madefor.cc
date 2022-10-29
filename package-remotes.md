@@ -17,6 +17,6 @@ The remote should contain a file called "unicorn.txt" that contains the name of 
 
 The client will have a folder called `/etc/unicorn/remotes/` that will contain one serialised file per remote. Each serialised file should contain a `url` keyword specifiying the full HTTP path to the remote, as well as a `packages` table that contains known packages from that remote.
 
-`unicorn.remote.update()` should parse each file in `/etc/unicorn/remotes` and update the `packages` table.
+`unicorn.hoof.update()` should parse each file in `/etc/unicorn/remotes` and update the `packages` table.
 
-`unicorn.remote.get()` should parse each file in `/etc/unicorn/remotes/` and download the requested file to `/tmp/unicorn/{package_name}.lua`, and then `unicorn.install()` should install said file.
+`unicorn.hoof.get()` should parse each file in `/etc/unicorn/remotes/` and download the requested file to `/tmp/unicorn/{package_name}.lua`, and then `unicorn.install()` should install said file.
