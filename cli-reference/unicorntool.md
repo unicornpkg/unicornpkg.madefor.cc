@@ -1,5 +1,5 @@
 ---
-title: `unicorntool`
+title: "`unicorntool`"
 parent: CLI reference
 ---
 
