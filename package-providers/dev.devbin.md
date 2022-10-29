@@ -1,5 +1,6 @@
 ---
 title: dev.devbin
+parent: Package providers
 ---
 
 `dev.devbin` is the identifier for the package provider of [Devbin](https://devbin.dev).

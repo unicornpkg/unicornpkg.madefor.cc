@@ -1,5 +1,6 @@
 ---
 title: com.github
+parent: Package providers
 ---
 
 `com.github` is the identifier for the package provider of [GitHub](https://github.com).

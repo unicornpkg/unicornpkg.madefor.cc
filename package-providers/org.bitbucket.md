@@ -1,5 +1,6 @@
 ---
 title: org.bitbucket
+parent: Package providers
 ---
 
 `org.bitbucket` is the identifier for the package provider of [Bitbucket](https://bitbucket.org).
