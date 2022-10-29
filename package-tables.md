@@ -7,6 +7,10 @@ title: Package tables
 The only required fields are `name` and `pkgType`, but more are recommended if you want your package to be useful.
 
 ## Fields
+### `unicornSpec`
+
+This specifies the version of the package table. This should always be set to `v1.0.0`.
+
 ### `name`
 
 This should be the same as the filename without the `.lua` extension.
