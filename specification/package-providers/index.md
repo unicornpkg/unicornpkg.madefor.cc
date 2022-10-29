@@ -1,5 +1,7 @@
 ---
 title: Package providers
+parent: Specification
+has_children: true
 ---
 
 **Package providers** are the workhorse of unicornpkg; they allow you to use various online services to install packages.

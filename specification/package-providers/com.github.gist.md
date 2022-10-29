@@ -1,6 +1,6 @@
 ---
 title: com.github.gist
-parent: Package providers
+parent: Specification/Package providers
 ---
 
 `com.github.gist` is the identifier for the package provider of [GitHub Gists](https://gists.github.com).

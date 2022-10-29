@@ -1,5 +1,6 @@
 ---
 title: Package remotes
+parent: Specification
 ---
 
 **Package remotes** are a feature in unicornpkg that allow you to download package tables semi-automatically.

@@ -1,5 +1,6 @@
 ---
 title: Package tables
+parent: Specification
 ---
 
 **Package tables** are the primary way of setting up packages with unicornpkg. They are a Lua table or a function that returns a Lua table.

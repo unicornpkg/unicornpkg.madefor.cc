@@ -1,5 +1,6 @@
 ---
 title: Home
+nav_order: 1
 ---
 
 > unicornpkg: A package manager for ComputerCraft that doesn't suck.
