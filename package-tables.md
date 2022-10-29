@@ -19,4 +19,5 @@ The string is formatted based on the domain of the provider; for example, GitHub
 
 ### `instdat`
 
-A table that contains information specific to the `pkgType`. See individual [package providers](./Package providers/index.md) for more information.
+A table that contains information specific to the `pkgType`. See individual [package providers](./package-providers/index.md) for more information.
+
