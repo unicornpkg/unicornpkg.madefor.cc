@@ -26,3 +26,10 @@ The string is formatted based on the domain of the provider; for example, GitHub
 
 A table that contains information specific to the `pkgType`. See individual [package providers](./package-providers/index.md) for more information.
 
+### `rel`
+
+A table that contains information relating to other packages.
+
+#### `rel.depends`
+
+An ordered table that lists required packages.
