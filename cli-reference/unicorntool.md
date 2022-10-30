@@ -1,5 +1,5 @@
 ---
-title: "`unicorntool`"
+title: unicorntool
 parent: CLI reference
 ---
 
@@ -10,7 +10,11 @@ parent: CLI reference
 
 Installs a raw package table onto the system. It has one argument, which is required.
 
+`add <file_path>` is aliased to this command.
+
 ### `uninstall <package_name>`
 
 Removes a package of `package_name` from the system.
+
+`remove <file_path>` is aliased to this command.
 
