@@ -1,5 +1,5 @@
 ---
-name: CLI reference
+title: CLI reference
 nav_order: 3
 has_children: true
 ---
