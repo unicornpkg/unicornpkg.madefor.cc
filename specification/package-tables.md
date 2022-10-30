@@ -18,7 +18,7 @@ This should be the same as the filename without the `.lua` extension.
 
 ### `pkgType`
 
-Specifies the package type; see [Package providers](./Package providers) for more information.
+Specifies the package type; see [Package providers](./package-providers/index.md) for more information.
 
 The string is formatted based on the domain of the provider; for example, GitHub's provider is `com.github`, and Bitbucket's provider is `org.bitbucket`.
 
