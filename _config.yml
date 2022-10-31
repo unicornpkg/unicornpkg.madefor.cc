@@ -4,3 +4,8 @@ exclude:
   - .obsidian/
   - CNAME
   - .git*
+aux_links:
+  "unicornpkg on GitHub":
+    - "//github.com/unicornpkg"
+  "Roadmap":
+    - "//github.com/orgs/unicornpkg/projects/1
