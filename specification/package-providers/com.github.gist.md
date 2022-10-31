@@ -16,3 +16,7 @@ The owner of the target Gist.
 
 The identifier of the target Gist. (This is named this way for consistency with [com.github](./com.github.md) and because Gists are technically repositories.)
 
+### `instdat.repo_ref`
+
+A valid commit inside of the target Gist.
+
