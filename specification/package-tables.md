@@ -16,6 +16,18 @@ This specifies the version of the package table. This should always be set to `v
 
 This should be the same as the filename without the `.lua` extension.
 
+### `desc`
+
+A description of the contents of the package table. Can be single-line or multiline.
+
+### `maintainer`
+
+The name or pseudonym of the maintainer of the package table.
+
+### `licensing`
+
+The license of the package and its contents. Should be a [valid OSI identifier](https://opensource.org/licenses/alphabetical), or `CCPL` if the license is the ComputerCraft Public License.
+
 ### `pkgType`
 
 Specifies the package type; see [Package providers](./package-providers/index.md) for more information.
