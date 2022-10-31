@@ -38,6 +38,14 @@ The string is formatted based on the domain of the provider; for example, GitHub
 
 A table that contains information specific to the `pkgType`. See individual [package providers](./package-providers/index.md) for more information.
 
+### `security`
+
+A table that contains hashes and other security-related data.
+
+#### `security.sha256`
+
+A table that contains a name of the file (`k`) and the corresponding SHA-256 hash (`v`).
+
 ### `rel`
 
 A table that contains information relating to other packages.
