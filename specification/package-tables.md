@@ -38,6 +38,26 @@ The string is formatted based on the domain of the provider; for example, GitHub
 
 A table that contains information specific to the `pkgType`. See individual [package providers](./package-providers/index.md) for more information.
 
+### `script`
+
+A table that contains scripts that should be called at various points in the package's life.
+
+#### `script.preinstall`
+
+A function that is called before the package table is installed.
+
+#### `script.postinstall`
+
+A function that is called after the package table is installed.
+
+#### `script.preremove`
+
+A function that is called before the package is removed.
+
+#### `script.postremove`
+
+A function that is called after the package is removed.
+
 ### `security`
 
 A table that contains hashes and other security-related data.
