@@ -8,11 +8,11 @@ parent: Specification
 ## Specification
 ### Remote
 
-The remote is a simple HTTP server. It's usually a GitHub repository, but other hosts should work fine.
+The remote is a simple HTTPS server. It's usually a GitHub repository, but other hosts should work fine.
 
 Each package should be a file on the package remote ending in `.lua`.
 
-The remote should contain a file called "unicorn.txt" that contains the name of all packages present on that remote, **without the `.lua` suffix**.
+All packages on the remote should return valid package tables.
 
 ### Retrieval on the client
 
