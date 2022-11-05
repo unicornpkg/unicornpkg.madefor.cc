@@ -44,19 +44,19 @@ A table that contains scripts that should be called at various points in the pac
 
 #### `script.preinstall`
 
-A function that is called before the package table is installed.
+A block of Lua source code that is called before the package table is installed.
 
 #### `script.postinstall`
 
-A function that is called after the package table is installed.
+A block of Lua source code that is called after the package table is installed.
 
 #### `script.preremove`
 
-A function that is called before the package is removed.
+A block of Lua source code that is called before the package is removed.
 
 #### `script.postremove`
 
-A function that is called after the package is removed.
+A block of Lua source code that is called after the package is removed.
 
 ### `security`
 
