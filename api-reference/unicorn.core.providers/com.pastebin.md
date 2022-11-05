@@ -1,7 +1,7 @@
 ---
 title: com.pastebin
-parent: Package providers
-grand_parent: Specification
+parent: unicorn.core.providers
+grand_parent: API reference
 ---
 
 `com.pastebin` is the identifier for the package provider of [Pastebin](https://pastebin.com).

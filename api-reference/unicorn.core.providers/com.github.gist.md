@@ -1,7 +1,7 @@
 ---
 title: com.github.gist
-parent: Package providers
-grand_parent: Specification
+parent: unicorn.core.providers
+grand_parent: API reference
 ---
 
 `com.github.gist` is the identifier for the package provider of [GitHub Gists](https://gists.github.com).

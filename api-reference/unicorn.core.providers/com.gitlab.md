@@ -1,7 +1,7 @@
 ---
 title: com.gitlab
-parent: Package providers
-grand_parent: Specification
+parent: unicorn.core.providers
+grand_parent: API reference
 ---
 
 `com.gitlab` is the identifier for the package provider of the main [GitLab](https://gitlab.com) instance.

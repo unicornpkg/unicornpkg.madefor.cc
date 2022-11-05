@@ -1,7 +1,7 @@
 ---
 title: dev.devbin
-parent: Package providers
-grand_parent: Specification
+parent: unicorn.core.providers
+grand_parent: API reference
 ---
 
 `dev.devbin` is the identifier for the package provider of [Devbin](https://devbin.dev).
