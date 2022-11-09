@@ -72,4 +72,8 @@ A table that contains information relating to other packages.
 
 #### `rel.depends`
 
-An ordered table that lists required packages.
+A numbered table that lists required packages.
+
+#### `rel.conflicts`
+
+A numbered table that lists packages which break when they are installed with this package.
