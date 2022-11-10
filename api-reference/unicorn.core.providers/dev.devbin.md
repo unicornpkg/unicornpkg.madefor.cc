@@ -4,9 +4,11 @@ parent: unicorn.core.providers
 grand_parent: API reference
 ---
 
-`dev.devbin` is the identifier for the package provider of [Devbin](https://devbin.dev).
+**This provider has been deprecated because DevBin is now offline.**
 
-This provider enables sourcing one or more pastes from Devbin.
+`dev.devbin` is the identifier for the package provider of DevBin.
+
+This provider enables sourcing one or more pastes from DevBin.
 
 ### `instdat.filemaps`
 
