@@ -28,6 +28,12 @@ The name or pseudonym of the maintainer of the package table.
 
 The license of the package and its contents. Should be a [valid OSI identifier](https://opensource.org/licenses/alphabetical), or `CCPL` if the license is the ComputerCraft Public License.
 
+### `version`
+
+The version of a package. If a project does not have versioning, do not fill out this field.
+
+This field expects a valid [SemVer](https://semver.org) string, without the `v` prefix.
+
 ### `pkgType`
 
 Specifies the package type; see [Package providers](./package-providers/index.md) for more information.
