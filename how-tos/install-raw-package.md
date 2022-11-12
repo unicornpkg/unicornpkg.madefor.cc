@@ -1,6 +1,7 @@
 ---
 title: How to install a raw package
 parent: How-tos
+nav_order: 3
 ---
 
 This guide will cover installing a package without using a remote.

@@ -1,6 +1,7 @@
 ---
 title: How to create a package remote
 parent: How-tos
+nav_order: 4
 ---
 
 Package remotes are simple text files made available on the web. This how-to will allow you to create a package repository with GitHub.

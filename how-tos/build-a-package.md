@@ -1,6 +1,7 @@
 ---
 title: How to build a package
 parent: How-tos
+nav_order: 2
 ---
 
 This how-to guide will cover how to create a custom package for unicornpkg.

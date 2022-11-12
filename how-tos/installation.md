@@ -1,6 +1,7 @@
 ---
 title: How to install unicornpkg
 parent: How-tos
+nav_order: 1
 ---
 
 In this how-to guide, we will install libunicornpkg and unicorntool onto a computer.
