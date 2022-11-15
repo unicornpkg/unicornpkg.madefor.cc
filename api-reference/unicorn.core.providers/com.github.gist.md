@@ -18,5 +18,5 @@ The identifier of the target Gist. (This is named this way for consistency with 
 
 ### `instdat.repo_ref`
 
-A valid commit inside of the target Gist.
+The [Git reference](https://git-scm.com/book/en/v2/Git-Internals-Git-References) (a commit) of the target repository.
 
