@@ -20,6 +20,10 @@ This should be the same as the filename without the `.lua` extension.
 
 A description of the contents of the package table. Can be single-line or multiline.
 
+### `dirs`
+
+An ordered table that contains a list of folders to create. They are removed when the package is uninstalled, but only if the folder is empty.
+
 ### `maintainer`
 
 The name or pseudonym of the maintainer of the package table.
