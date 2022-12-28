@@ -5,6 +5,8 @@ exclude:
   - CNAME
   - .git*
 aux_links:
+  "Discord":
+  - "//discord.gg/Xs3VKNJrMb"
   "GitHub":
     - "//github.com/unicornpkg"
   "Roadmap":
