@@ -28,6 +28,10 @@ An ordered table that contains a list of folders to create. They are removed whe
 
 The name or pseudonym of the maintainer of the package table.
 
+### `thumb`
+
+A URL which links to a SVG, PNG, or JPEG image file that will be used in out-of-game visual tools.
+
 ### `licensing`
 
 The license of the package and its contents. Should be a [valid OSI identifier](https://opensource.org/licenses/alphabetical), or `CCPL` if the license is the ComputerCraft Public License.
