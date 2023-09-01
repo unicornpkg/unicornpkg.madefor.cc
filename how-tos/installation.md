@@ -4,8 +4,6 @@ parent: How-tos
 nav_order: 1
 ---
 
-**Warning: The installer is currently chronically broken. It will almost certainly not work.**
-
 In this how-to guide, we will install libunicornpkg and unicorntool onto a computer.
 
 This guide requires access to the HTTP API.
