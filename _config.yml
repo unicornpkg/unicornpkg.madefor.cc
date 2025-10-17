@@ -15,5 +15,7 @@ redirects: true
 nav_external_links:
   - title: CLI docs
     url: "https://unicornpkg.github.io/cli/"
+  - title: API docs
+    url: "https://github.com/unicornpkg/libunicornpkg"
   - title: Specification
     url: "https://unicornpkg.github.io/spec/"
