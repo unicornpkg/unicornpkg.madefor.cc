@@ -1,6 +1,4 @@
 ---
-title: TypeScript typings
-parent: API reference
+redirect_to:
+  - https://github.com/unicornpkg/tstl-types-libunicornpkg
 ---
-
-Typings for using libunicornpkg with TypeScript are available. See [the repository](https://github.com/unicornpkg/tstl-typings-libunicornpkg) for more information.
