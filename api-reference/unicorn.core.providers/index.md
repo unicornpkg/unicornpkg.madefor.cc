@@ -1,6 +1,4 @@
 ---
-title: unicorn.core.providers
-parent: API reference
-has_children: true
+permalink: /api-reference/unicorn.core.providers/index.html
+redirect_to: https://unicornpkg.github.io/libunicornpkg/providers/index.html
 ---
-Providers for unicornpkg. See [Specification / Package providers ](../../../specification/package-providers/index.md) for more information.

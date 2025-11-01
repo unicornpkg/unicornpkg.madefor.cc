@@ -1,6 +1,4 @@
 ---
-title: API reference
-has_children: true
+permalink: /api-reference/index.html
+redirect_to: https://unicornpkg.github.io/libunicornpkg/
 ---
-
-API documentation for libunicornpkg.
