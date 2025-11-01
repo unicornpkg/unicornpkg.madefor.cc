@@ -3,7 +3,7 @@ title: How to create a package
 parent: How-tos
 nav_order: 2
 redirect_from:
-- 'build-a-package'
+- '/how-tos/build-a-package'
 ---
 
 This how-to guide will cover how to create your own package for unicornpkg.
