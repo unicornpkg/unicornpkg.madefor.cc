@@ -15,9 +15,7 @@ aux_links:
     - "//github.com/orgs/unicornpkg/projects/1"
 redirects: true
 nav_external_links:
-  - title: CLI docs
-    url: "https://unicornpkg.github.io/cli/"
-  - title: API docs
+  - title: Reference docs (API and CLI)
     url: "https://unicornpkg.github.io/libunicornpkg"
   - title: Specification
     url: "https://unicornpkg.github.io/spec/"
