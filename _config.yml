@@ -19,3 +19,5 @@ nav_external_links:
     url: "https://unicornpkg.github.io/libunicornpkg"
   - title: Specification
     url: "https://unicornpkg.github.io/spec/"
+  - title: Code of Conduct
+    url: "https://github.com/unicornpkg/.github/blob/main/CODE_OF_CONDUCT.md"
